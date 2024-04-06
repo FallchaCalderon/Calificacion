@@ -1,0 +1,85 @@
+{
+  "shop": [
+    {
+      "id": "1",
+      "address": "Calle Juan Martín",
+      "type": "frutería",
+      "nombre": "Lola Castro Frutas",
+      "latitude": 37.880273,
+      "longitude": -4.792098
+    },
+    {
+      "id": "2",
+      "address": "Calle Pepe Cruz",
+      "type": "supermercado",
+      "nombre": "Ultramarinos Lolo Castro",
+      "latitude": 37.862323,
+      "longitude": -4.77812
+    },
+    {
+      "id": "3",
+      "address": "Avenida de la Cruz",
+      "type": "pescadería",
+      "nombre": "Pescados El Boquerón",
+      "latitude": 37.856273,
+      "longitude": -4.776992
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "manzanas",
+      "shopId": 1
+    },
+    {
+      "id": "2",
+      "name": "peras",
+      "shopId": 1
+    },
+    {
+      "id": "3",
+      "name": "escoba",
+      "shopId": 2
+    },
+    {
+      "id": "4",
+      "name": "detergente",
+      "shopId": 2
+    },
+    {
+      "id": "3547",
+      "name": "test33333333333",
+      "shopId": 1
+    },
+    {
+      "id": "bf48",
+      "name": "test3",
+      "shopId": 1000
+    },
+    {
+      "id": "85bd",
+      "name": "ee",
+      "shopId": "eee"
+    },
+    {
+      "name": "test4",
+      "shopId": 1000,
+      "id": "7371"
+    },
+    {
+      "id": "8c3d",
+      "name": "platano",
+      "shopId": "50"
+    },
+    {
+      "id": "6672",
+      "name": "ulti",
+      "shopId": "yltimon"
+    },
+    {
+      "id": "5a4c",
+      "name": "test5",
+      "shopId": 1000
+    }
+  ]
+}
